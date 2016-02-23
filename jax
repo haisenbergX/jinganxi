@@ -1,0 +1,6 @@
+草头行= [];
+草头行.push('草');
+草头行.push('头');
+草头行.push('行');
+console.log(草头行);
+JSON.stringify(草头行);
