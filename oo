@@ -1,0 +1,6 @@
+ d3.select('body').append('a')
+          .attr('href','https://github.com/bigdata-mindstorms/d3-playground/issues/27')
+          .style('color','red')
+          .html('大家好')
+         
+          ;
